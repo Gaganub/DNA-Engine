@@ -1,9 +1,8 @@
 # DNA-Engine
-An UI library for cloning semantic templates
+An UI library for cloning semantic templates for cloning semantic templates
 
 <img src=https://dna-engine.org/graphics/dna-logo.png align=right width=160 alt=logo>
 
-_An uncomplicated user interface library for cloning semantic templates_
 
 [![License:MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://dna-engine.org/license)
 [![npm](https://img.shields.io/npm/v/dna-engine.svg)](https://www.npmjs.com/package/dna-engine)
