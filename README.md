@@ -1,4 +1,4 @@
-# dna-engine
+# DNA-Engine
 <img src=https://dna-engine.org/graphics/dna-logo.png align=right width=160 alt=logo>
 
 _An uncomplicated user interface library for cloning semantic templates_
