@@ -85,8 +85,6 @@ interesting approach to organizing build tasks.
 <br>
 
 ---
-Feel free to submit questions at:<br>
-[github.com/dna-engine/dna-engine/issues](https://github.com/dna-engine/dna-engine/issues)
 
 dna-engine is open source under the [MIT License](https://dna-engine.org/license).&nbsp;
 The website and documentation are published under the
